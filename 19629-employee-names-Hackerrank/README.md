@@ -1,4 +1,4 @@
-# [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)
+# [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?isFullScreen=true)
 ## Easy
 <div class="challenge-body-html"><div class="challenge_problem_statement"><div class="msB challenge_problem_statement_body"><div class="hackdown-content"><svg style="display: none;"><defs id="MathJax_SVG_glyphs"></defs></svg><p>Write a query that prints a list of employee names (i.e.: the <em>name</em> attribute) from the <strong>Employee</strong> table in alphabetical order.</p></div></div></div><div class="challenge_input_format"><div class="msB challenge_input_format_title"><p><strong>Input Format</strong></p></div><div class="msB challenge_input_format_body"><div class="hackdown-content"><svg style="display: none;"><defs id="MathJax_SVG_glyphs"></defs></svg><p>The <strong>Employee</strong> table containing employee data for a company is described as follows: </p>
 
